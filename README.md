@@ -1,6 +1,6 @@
 # 阿宝图的博客 :link: https://allen3106.github.io 
-### :page_facing_up: [3](https://allen3106.github.io/tag.html) 
+### :page_facing_up: [2](https://allen3106.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 1613 
-### :alarm_clock: 2024-06-24 16:11:16 
+### :hibiscus: 1471 
+### :alarm_clock: 2024-06-24 16:14:51 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
